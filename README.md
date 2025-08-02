@@ -1,6 +1,6 @@
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=2.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MÁXIMOS SOLUÇÕES - Soluções em Segurança Eletrônica</title>
     <style>
         /* Reset e estilos globais */
@@ -8,7 +8,7 @@
             margin: auto;
             padding: auto;
             box-sizing: border-box;
-            font-family: 'Arial', sans-serif;
+            font-family: '', sans-serif;
         }
         
         body {
