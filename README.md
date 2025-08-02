@@ -8,7 +8,7 @@
             margin: auto;
             padding: auto;
             box-sizing: border-box;
-            font-family: '100PX', sans-serif;
+            font-family: 'Arial', sans-serif;
         }
         
         body {
