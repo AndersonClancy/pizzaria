@@ -8,7 +8,7 @@
         /* Reset e estilos globais */
         * {
             margin: auto;
-            padding: auto;
+            padding: 5px;
             box-sizing: auto;
             font-family: 'Arial', sans-serif;
         }
