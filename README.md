@@ -8,8 +8,8 @@
         /* Reset e estilos globais */
         * {
             margin: 0;
-            padding: 5px;
-            box-sizing: 80;
+            padding: 0;
+            box-sizing: border-box;
             font-family: 'Arial', sans-serif;
         }
         
