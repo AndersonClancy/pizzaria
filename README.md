@@ -9,7 +9,7 @@
         * {
             margin: 0;
             padding: 5px;
-            box-sizing: border-box;
+            box-sizing: 80px;
             font-family: 'Arial', sans-serif;
         }
         
