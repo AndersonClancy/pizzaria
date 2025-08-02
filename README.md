@@ -7,7 +7,7 @@
     <style>
         /* Reset e estilos globais */
         * {
-            margin: auto;
+            margin: 0;
             padding: auto;
             box-sizing: border-box;
             font-family: 'Arial', sans-serif;
