@@ -1,7 +1,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <h1 style="font-size: 36px;">MÁXIMOS SOLUÇÕES - Soluções em Segurança Eletrônica</h1>
+    <title>Máximus Soluções - Soluções em Segurança Eletrônica</title>
     <style>
         /* Reset e estilos globais */
         * {
