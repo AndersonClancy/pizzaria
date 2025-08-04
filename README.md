@@ -387,7 +387,24 @@
             </div>
             <div class="contact-form">
                 <form>
+                    <div class="form-group">
+                        <label for="name">Nome</label>
+                        <input type="text" id="name" name="name" required>
                     </div>
+                    <div class="form-group">
+                        <label for="email">E-mail</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="phone">Telefone</label>
+                        <input type="tel" id="phone" name="phone">
+                    </div>
+                    <div class="form-group">
+                        <label for="message">Mensagem</label>
+                        <textarea id="message" name="message" required></textarea>
+                    </div>
+                    <button type="submit" class="btn">Enviar Mensagem</button>
+                </form>
             
                       <form action="https://formsubmit.co/maximussolucoess@gmail.com" method="POST">
     <input type="text" name="name" placeholder="Digite seu nome" required>
