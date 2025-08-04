@@ -387,9 +387,6 @@
             </div>
             <div class="contact-form">
                 <form>
-                    <div class="form-group">
-                        <label for="name">Nome</label>
-                        <input type="text" id="name" name="name" required>
                     </div>
                     <div class="form-group">
                        <form action="https://formsubmit.co/maximussolucoess@gmail.com" method="POST">
