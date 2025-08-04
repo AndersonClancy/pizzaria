@@ -388,8 +388,8 @@
             <div class="contact-form">
                 <form>
                     </div>
-                    <div class="form-group">
-                       <form action="https://formsubmit.co/maximussolucoess@gmail.com" method="POST">
+            
+                      <form action="https://formsubmit.co/maximussolucoess@gmail.com" method="POST">
     <input type="text" name="name" placeholder="Digite seu nome" required>
     <input type="email" name="email" placeholder="Digite seu e-mail" required>
 
