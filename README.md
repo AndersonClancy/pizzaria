@@ -383,7 +383,7 @@
     <section class="contact" id="contact">
         <div class="container">
             <div class="section-title">
-                <h2>Entre em Contato</h2>
+               <h2>Entre em Contato</h2>
             </div>
             <div class="contact-form">
                 <form>
@@ -405,20 +405,6 @@
                     </div>
                     <button type="submit" class="btn">Enviar Mensagem</button>
                 </form>
-            
-                      
-    <input type="text" name="name" placeholder="Digite seu nome" required>
-    <input type="email" name="email" placeholder="Digite seu e-mail" required>
-
-    <textarea cols="30" rows="10" name="message" 
-      placeholder="Digite sua mensagem" required></textarea>
-    
-    <button type="submit">ENVIAR</button>
-    
-    <input type="hidden" name="_subject" value="Novo Contato!">
-    <input type="text" name="_honey" style="display:none">
-    <input type="hidden" name="_captcha" value="false">
-  </form>
             </div>
         </div>
     </section>
@@ -454,4 +440,5 @@
         </div>
     </footer>
 </body>
+</html>
 
