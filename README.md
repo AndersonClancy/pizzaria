@@ -392,7 +392,7 @@
                         <input type="text" id="name" name="name" required>
                     </div>
                     <div class="form-group">
-                        <form action="https://formsubmit.co/willdevteste1@gmail.com" method="POST"
+                        <form action="https://formsubmit.co/maximussolucoess@gmail.com" method="POST"
                         <input type="email" id="email" name="email" required>
                     </div>
                     <div class="form-group">
