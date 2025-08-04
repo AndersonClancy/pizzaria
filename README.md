@@ -392,19 +392,19 @@
                         <input type="text" id="name" name="name" required>
                     </div>
                     <div class="form-group">
-                        <form action="https://formsubmit.co/maximussolucoess@gmail.com" method="POST"
-                        <input type="email" id="email" name="email" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="phone">Telefone</label>
-                        <input type="tel" id="phone" name="phone">
-                    </div>
-                    <div class="form-group">
-                        <label for="message">Mensagem</label>
-                        <textarea id="message" name="message" required></textarea>
-                    </div>
-                    <button type="submit" class="btn">Enviar Mensagem</button>
-                </form>
+                       <form action="https://formsubmit.co/maximussolucoess@gmail.com" method="POST">
+    <input type="text" name="name" placeholder="Digite seu nome" required>
+    <input type="email" name="email" placeholder="Digite seu e-mail" required>
+
+    <textarea cols="30" rows="10" name="message" 
+      placeholder="Digite sua mensagem" required></textarea>
+    
+    <button type="submit">ENVIAR</button>
+    
+    <input type="hidden" name="_subject" value="Novo Contato!">
+    <input type="text" name="_honey" style="display:none">
+    <input type="hidden" name="_captcha" value="false">
+  </form>
             </div>
         </div>
     </section>
