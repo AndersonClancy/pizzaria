@@ -295,7 +295,7 @@
     <header>
         <div class="container">
             <div class="header-content">
-                <div class="logo">Máximus Soluções</div>
+                <div class="logo">MÁXIMUS SOLUÇÕES</div>
                 <nav>
                     <ul>
                         <li><a href="#home">Início</a></li>
