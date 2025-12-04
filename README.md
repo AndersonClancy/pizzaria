@@ -419,7 +419,7 @@
                 </div>
                 <div class="footer-section">
                     <h3>Contato</h3>
-                    <p><i class="fas fa-phone"></i> (21) 96436-6431</p>
+                    <p><i class="fas fa-phone"></i> (21) 96021-7071</p>
                     <p><i class="fas fa-phone"></i> (21) 97923-2476</p>
                     <p><i class="fas fa-envelope"></i> maximussolucoess@gmail.com</p>
                     <p><i class="fas fa-map-marker-alt"></i> </p>
